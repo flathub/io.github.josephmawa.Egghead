@@ -20,8 +20,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/Egghead",
-          "tag": "v0.1.2",
-          "commit": "7d8992f04bd5e48c8b2981ec40f7e7cdaa4d912c"
+          "tag": "v0.1.3",
+          "commit": "e4fc2677455b357de1d047bbf531fe806285b100"
         }
       ]
     }
