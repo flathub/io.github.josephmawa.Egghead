@@ -1,7 +1,7 @@
 {
   "id": "io.github.josephmawa.Egghead",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "50",
+  "runtime-version": "51",
   "sdk": "org.gnome.Sdk",
   "command": "io.github.josephmawa.Egghead",
   "finish-args": [
@@ -20,8 +20,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/Egghead",
-          "tag": "v0.1.4",
-          "commit": "fd78071af19c319c23c829abb52ce97e0abe2ccd"
+          "tag": "v0.1.5",
+          "commit": "67c8112999ad7defb85af1184a7c47e4df6e2dd3"
         }
       ]
     }
